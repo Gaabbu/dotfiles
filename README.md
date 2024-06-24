@@ -2,17 +2,10 @@ dotfiles for all ricing I've done
 
 
 ### Arch + Hyprland
-‎‎‎‎‎![verticalshowcase](https://github.com/Gaabbu/dotfiles/assets/64439196/3dbc9224-e0a5-4444-93a4-24d8e39db8a7)
+![verticalshowcase](https://github.com/Gaabbu/dotfiles/assets/64439196/2cb16538-f251-445e-856c-70ca9ee172aa)
 ___
-![cmd](https://github.com/Gaabbu/dotfiles/assets/64439196/73ac3144-c27d-4148-9c07-deecd95facb3)
-![firefox](https://github.com/Gaabbu/dotfiles/assets/64439196/4d0daba9-0cf2-48e5-8ad5-0aa0025f8cb1)
-![rofi](https://github.com/Gaabbu/dotfiles/assets/64439196/51f8c06c-bdbe-44f5-a034-e4b82600049f)
-![image](https://github.com/Gaabbu/dotfiles/assets/64439196/1cfb3bc6-fa4e-4111-8b15-93825ff18a0e)
-
-
-
-### Void + SwayFX
-![image](https://github.com/Gaabbu/dotfiles/assets/64439196/660e8a5a-f4f8-4d26-8b51-56ecaae55de2)
-![image](https://github.com/Gaabbu/dotfiles/assets/64439196/38208921-6505-4b39-bf53-db886fb988d3)
-
-
+![terminal](https://github.com/Gaabbu/dotfiles/assets/64439196/a02ece77-c88b-46d8-adcb-53f22311bf30)
+![firefox](https://github.com/Gaabbu/dotfiles/assets/64439196/9e8f281b-ab70-4c59-991a-1b82513650d4)
+![rofi](https://github.com/Gaabbu/dotfiles/assets/64439196/edf966e0-d0e5-4e25-a17e-19d2b3e724b5)
+![hyprlock](https://github.com/Gaabbu/dotfiles/assets/64439196/cddac9e1-fefe-4b10-89de-411fc5e7f1a8)
+![sddm-greeter](https://github.com/Gaabbu/dotfiles/assets/64439196/9db62a3c-66f3-49be-bd9d-f511be47d743)

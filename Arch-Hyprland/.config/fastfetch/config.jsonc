@@ -1,0 +1,89 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "type": "kitty-direct",
+    "source": "~/Imagens/PFP/Leefa.png",
+    "width": 37,
+    "height": 17,
+  },
+  "modules": [
+    "title",
+    //"separator",
+    {
+      "type": "separator",
+      "string": "╔═════════════════════════",
+    },
+    //"os",
+    {
+      "type": "os",
+      "key": "󰣇 ",
+    },
+    //"host",
+    {
+      "type": "host",
+      "key": "󰌢 "
+    },
+    //"kernel",
+    {
+      "type": "kernel",
+      "key": " ",
+    },
+    //"uptime",
+    {
+      "type": "uptime",
+      "key": " ",
+    },
+    //"packages",
+    {
+      "type": "packages",
+      "key": " ",
+    },
+     {
+      "type": "separator",
+      "string": "╠═════════════════════════",
+    },
+   //"shell",
+    {
+      "type": "shell",
+      "key": " ",
+    },
+    //"display",
+    {
+      "type": "display",
+      "key": "󰍹 ",
+    },
+    //"wm",
+    {
+      "type": "wm",
+      "key": " ",
+    },
+       {
+      "type": "separator",
+      "string": "╠═════════════════════════",
+    },
+    //"cpu",
+    {
+      "type": "cpu",
+      "key": " ",
+    },
+    //"gpu",
+    {
+      "type": "gpu",
+      "key": "󰢮 ",
+    },
+    //"memory",
+    {
+      "type": "memory",
+      "key": " ",
+    },
+    //"battery",
+    {
+      "type": "battery",
+      "key": " ",
+    },
+        {
+      "type": "separator",
+      "string": "╚═════════════════════════",
+    },
+  ]
+}
